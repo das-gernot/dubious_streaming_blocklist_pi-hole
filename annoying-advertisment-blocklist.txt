@@ -1,4 +1,9 @@
-outbrain
+outbrain.com
 taboola.com
-teads.tv
 zergnet.com
+
+teads.tv
+
+adform.net
+googleadservices.com
+googlesyndication.com
