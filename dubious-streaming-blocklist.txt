@@ -1,3 +1,7 @@
+*.teads.tv
+*.outbrain
+
+
 24flix.de
 aboplay.de
 aceflix.de
