@@ -117,7 +117,6 @@ flixberg.de
 flixdad.de
 flixday.de
 flixdome.de
-flixdome.de
 flixdrom.de
 flixer.de
 flixfox.de
@@ -370,6 +369,7 @@ playdax.de
 playder.de
 playdomo.de
 playdon.de
+playdona.de
 playdoro.de
 playdost.de
 playduck.de
@@ -405,11 +405,13 @@ playoda.de
 playomo.de
 playoza.de
 playred.de
+playrelo.de
 playrex.de
 playroyo.de
 playrush.de
 playsat.de
 playsimo.de
+playsome.de
 playstore.de
 playsub.de
 playted.de
